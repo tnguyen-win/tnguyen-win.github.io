@@ -9,8 +9,10 @@ ECHO 5 - [ development - npm run lint ]
 ECHO 6 - [ development - npm run lint:fix ]
 ECHO 7 - [ development - depcheck ]
 ECHO 8 - [ development - check and install NPM updates ]
-ECHO 10 - [ development - npm run git-reset ]
-ECHO 11 - [ development - npm run git-force ]
+ECHO 9 - [ development - publish to NPMJS / global-components ]
+ECHO 10 - [ development - publish to NPMJS / routing  ]
+ECHO 11 - [ development - npm run git-reset ]
+ECHO 12 - [ development - npm run git-force ]
 ECHO ----------------
 
 SET /P input="ENTER: "
@@ -54,12 +56,22 @@ IF %input% == 8 (
     CALL npm install
 )
 
+IF %input% == 9 (
+    CALL CD "%CD%\dev_modules\@ocdla\global-components"
+    CALL npm publish --access=public
+)
+
 IF %input% == 10 (
+    CALL CD "%CD%\dev_modules\@ocdla\routing"
+    CALL npm publish --access=public
+)
+
+IF %input% == 11 (
     @REM Please be careful with this command. It will remove the last commit for this local Git repository.
     CALL npm run git:reset
 )
 
-IF %input% == 11 (
+IF %input% == 12 (
     @REM Please be careful with this command. It will forcefully sync your local Git repository's commits with your remote Git repository.
     CALL npm run git:force
 )
