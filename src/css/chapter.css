@@ -1,0 +1,17 @@
+.subsection {
+    /* trying to hide duplicate labels. */
+    /* display: none; */
+}
+
+.section-heading {
+    margin-top: 2rem;
+    font-weight: bold;
+}
+
+.level-1 {
+    padding-left: 10px;
+}
+
+.level-2 {
+    padding-left: 20px;
+}

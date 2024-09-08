@@ -1,0 +1,742 @@
+<volumes>
+    <volume id="vol-1" name="Courts, Oregon Rules of Civil Procedure">
+        <title id="title-1" name="Courts of Record; Court Officers; Juries" range="1-10">
+            <chapter id="ch-1" name="Courts and Judicial Officers Generally" />
+            <chapter id="ch-2" name="Supreme Court" />
+            <chapter id="ch-3" name="Circuit Courts Generally" />
+            <chapter id="ch-5" name="County Courts (Judicial Functions)" />
+            <chapter id="ch-7" name="Records and Files of Courts" />
+            <chapter id="ch-8" name="Court Officers and District Attorneys" />
+            <chapter id="ch-9" name="Attorneys" />
+            <chapter id="ch-10" name="Juries" />
+        </title>
+        <title id="title-2" name="Procedure in Civil Proceedings" range="12-25">
+            <chapter id="ch-12" name="Limitations of Actions and Suits" />
+            <chapter id="ch-14" name="Jurisdiction" />
+            <chapter id="ch-15" name="Choice of Laws" />
+            <chapter id="ch-17" name="Compromise" />
+            <chapter id="ch-18" name="Judgments" />
+            <chapter id="ch-19" name="Appeals" />
+            <chapter id="ch-20" name="Attorney Fees" />
+            <chapter id="ch-21" name="State Court Fees" />
+            <chapter id="ch-22" name="Bonds and Other Security Deposits" />
+            <chapter id="ch-24" name="Enforcement and Recognition of Foreign Judgments" />
+            <chapter id="ch-25" name="Support Enforcement" />
+        </title>
+        <title id="title-3" name="Remedies and Special Actions and Proceedings" range="28-37">
+            <chapter id="ch-28" name="Declaratory Judgments" />
+            <chapter id="ch-30" name="Actions and Suits in Particular Cases" />
+            <chapter id="ch-31" name="Tort Actions" />
+            <chapter id="ch-33" name="Special Proceedings and Procedures" />
+            <chapter id="ch-34" name="Writs" />
+            <chapter id="ch-35" name="Eminent Domain" />
+            <chapter id="ch-36" name="Mediation and Arbitration" />
+            <chapter id="ch-37" name="Receivership" />
+        </title>
+        <title id="title-4" name="Evidence and Witnesses" range="40-45">
+            <chapter id="ch-40" name="Evidence Code" />
+            <chapter id="ch-41" name="Evidence Generally" />
+            <chapter id="ch-42" name="Execution, Formalities and Interpretation of Writings" />
+            <chapter id="ch-43" name="Public Writings" />
+            <chapter id="ch-44" name="Witnesses" />
+            <chapter id="ch-45" name="Testimony Generally" />
+        </title>
+        <title id="title-5" name="Small Claims Department of Circuit Court" range="46-46">
+            <chapter id="ch-46" name="Small Claims Department of Circuit Court" />
+        </title>
+        <title id="title-6" name="Justice Courts" range="51-55">
+            <chapter id="ch-51" name="Justice Courts" />
+            <chapter id="ch-52" name="Civil Actions" />
+            <chapter id="ch-53" name="Appeals in Civil Actions" />
+            <chapter id="ch-54" name="Juries" />
+            <chapter id="ch-55" name="Small Claims" />
+        </title>
+    </volume>
+    <volume id="vol-2" name="Business Organizations, Commercial Code">
+        <title id="title-7" name="Corporations and Partnerships" range="56-70">
+            <chapter id="ch-56" name="Duties of Secretary of State" />
+            <chapter id="ch-58" name="Professional Corporations" />
+            <chapter id="ch-59" name="Securities Regulation" />
+            <chapter id="ch-60" name="Private Corporations" />
+            <chapter id="ch-62" name="Cooperatives" />
+            <chapter id="ch-63" name="Limited Liability Companies" />
+            <chapter id="ch-65" name="Nonprofit Corporations" />
+            <chapter id="ch-67" name="Partnerships" />
+            <chapter id="ch-70" name="Limited Partnerships" />
+        </title>
+        <title id="title-8" name="Commercial Transactions" range="71-84">
+            <chapter id="ch-71" name="General Provisions for Uniform Commercial Code" />
+            <chapter id="ch-72" name="Sales" />
+            <chapter id="ch-72A" name="Leases" />
+            <chapter id="ch-73" name="Negotiable Instruments" />
+            <chapter id="ch-74" name="Bank Deposits and Collections" />
+            <chapter id="ch-74A" name="Funds Transfers" />
+            <chapter id="ch-75" name="Letters of Credit" />
+            <chapter id="ch-77" name="Warehouse Receipts, Bills of Lading and Other Documents of Title" />
+            <chapter id="ch-78" name="Investment Securities" />
+            <chapter id="ch-79" name="Secured Transactions" />
+            <chapter id="ch-80" name="Assignment" />
+            <chapter id="ch-81" name="Tender and Receipts" />
+            <chapter id="ch-82" name="Interest" />
+            <chapter id="ch-83" name="Retail Installment Contracts" />
+            <chapter id="ch-84" name="Electronic Transactions" />
+        </title>
+        <title id="title-9" name="Mortgages and Liens" range="86-88">
+            <chapter id="ch-86" name="Mortgages" />
+            <chapter id="ch-86A" name="Mortgage Lending" />
+            <chapter id="ch-87" name="Statutory Liens" />
+            <chapter id="ch-88" name="Foreclosure of Mortgages and Other Liens" />
+        </title>
+    </volume>
+    <volume id="vol-3" name="Landlord-Tenant, Domestic Relations, Probate">
+        <title id="title-10" name="Property Rights and Transactions" range="90-105">
+            <chapter id="ch-90" name="Residential Landlord and Tenant" />
+            <chapter id="ch-91" name="Tenancy" />
+            <chapter id="ch-92" name="Subdivisions and Partitions" />
+            <chapter id="ch-93" name="Conveyancing and Recording" />
+            <chapter id="ch-94" name="Real Property Development" />
+            <chapter id="ch-95" name="Fraudulent Transfers and Conveyances" />
+            <chapter id="ch-96" name="Line and Partition Fences" />
+            <chapter id="ch-97" name="Rights and Duties Relating to Cemeteries, Human Bodies and Anatomical Gift" />
+            <chapter id="ch-98" name="Lost, Unclaimed or Abandoned Property" />
+            <chapter id="ch-99" name="Property Removed by High Water" />
+            <chapter id="ch-100" name="Condominiums" />
+            <chapter id="ch-101" name="Continuing Care Retirement Communities" />
+            <chapter id="ch-105" name="Property Rights" />
+        </title>
+        <title id="title-11" name="Domestic Relations" range="106-110">
+            <chapter id="ch-106" name="Marriage" />
+            <chapter id="ch-107" name="Marital Dissolution, Annulment and Separation" />
+            <chapter id="ch-108" name="Spousal Relationships" />
+            <chapter id="ch-109" name="Parent and Child Rights and Relationships" />
+            <chapter id="ch-110" name="Uniform Interstate Family Support Act" />
+        </title>
+        <title id="title-12" name="Probate Law" range="111-119">
+            <chapter id="ch-111" name="General Provisions" />
+            <chapter id="ch-112" name="Intestate Succession and Wills" />
+            <chapter id="ch-113" name="Initiation of Estate Proceedings" />
+            <chapter id="ch-114" name="Administration of Estates Generally" />
+            <chapter id="ch-115" name="Claims" />
+            <chapter id="ch-116" name="Accounting, Distribution and Closing" />
+            <chapter id="ch-117" name="Estates of Absentees" />
+            <chapter id="ch-118" name="Estate Tax" />
+            <chapter id="ch-119" name="Revised Uniform Fiduciary Access to Digital Assets Act" />
+        </title>
+        <title id="title-13" name="Protective Proceedings; Powers of Attorney; Trusts" range="124-130">
+            <chapter id="ch-124" name="Abuse Prevention and Reporting" />
+            <chapter id="ch-125" name="Protective Proceedings" />
+            <chapter id="ch-126" name="Property Held for the Benefit of Minors" />
+            <chapter id="ch-127" name="Powers of Attorney" />
+            <chapter id="ch-128" name="Trusts" />
+            <chapter id="ch-129" name="Uniform Principal and Income Act" />
+            <chapter id="ch-130" name="Uniform Trust Code" />
+        </title>
+    </volume>
+    <volume id="vol-4" name="Criminal Procedure, Crimes">
+        <title id="title-14" name="Procedure in Criminal Matters Generally" range="131-153">
+            <chapter id="ch-131" name="Preliminary Provisions; Limitations; Jurisdiction; Venue; Criminal Forfeiture; Crime Prevention" />
+            <chapter id="ch-131A" name="Civil Forfeiture" />
+            <chapter id="ch-132" name="Grand Jury, Indictments and Other Accusatory Instruments" />
+            <chapter id="ch-133" name="Arrest and Related Procedures; Search and Seizure; Extradition" />
+            <chapter id="ch-135" name="Arraignment and Pretrial Provisions" />
+            <chapter id="ch-136" name="Criminal Trials" />
+            <chapter id="ch-137" name="Judgment and Execution; Parole and Probation by the Court" />
+            <chapter id="ch-138" name="Appeals; Post-Conviction Relief" />
+            <chapter id="ch-142" name="Stolen Property" />
+            <chapter id="ch-144" name="Parole; Post-Prison Supervision; Work Release; Executive Clemency; Standards for Prison Terms and Parole; Presentence Reports" />
+            <chapter id="ch-146" name="Investigations of Deaths, Injuries and Missing Persons" />
+            <chapter id="ch-147" name="Victims of Crime and Acts of Mass Destruction" />
+            <chapter id="ch-151" name="Public Defenders; Counsel for Financially Eligible Persons" />
+            <chapter id="ch-153" name="Violations and Fines" />
+        </title>
+        <title id="title-15" name="Procedure in Criminal Actions in Justice Courts" range="156-157">
+            <chapter id="ch-156" name="Proceedings and Judgment in Criminal Actions" />
+            <chapter id="ch-157" name="Appeals in Criminal Actions; Writ of Review" />
+        </title>
+        <title id="title-16" name="Crimes and Punishments" range="161-169">
+            <chapter id="ch-161" name="General Provisions" />
+            <chapter id="ch-162" name="Offenses Against the State and Public Justice" />
+            <chapter id="ch-163" name="Offenses Against Persons" />
+            <chapter id="ch-163A" name="Sex Offender Reporting and Classification" />
+            <chapter id="ch-164" name="Offenses Against Property" />
+            <chapter id="ch-165" name="Offenses Involving Fraud or Deception" />
+            <chapter id="ch-166" name="Offenses Against Public Order; Firearms and Other Weapons; Racketeering" />
+            <chapter id="ch-167" name="Offenses Against General Welfare and Animals" />
+            <chapter id="ch-169" name="Local and Regional Correctional Facilities; Prisoners; Juvenile Facilities" />
+        </title>
+    </volume>
+    <volume id="vol-5" name="State Government, Government Procedures, Land Use">
+        <title id="title-17" name="State Legislative Department and Laws" range="171-174">
+            <chapter id="ch-171" name="State Legislature" />
+            <chapter id="ch-172" name="Commission on Uniform Laws; Commission on Indian Services" />
+            <chapter id="ch-173" name="Legislative Service Agencies" />
+            <chapter id="ch-174" name="Construction of Statutes; General Definitions" />
+        </title>
+        <title id="title-18" name="Executive Branch; Organization" range="176-185">
+            <chapter id="ch-176" name="Governor" />
+            <chapter id="ch-177" name="Secretary of State" />
+            <chapter id="ch-178" name="State Treasurer; Oregon Retirement Savings Plan; Oregon 529 Savings Network" />
+            <chapter id="ch-179" name="Administration of State Institutions" />
+            <chapter id="ch-180" name="Attorney General; Department of Justice" />
+            <chapter id="ch-181A" name="State Police; Crime Reporting and Records; Public Safety Standards and Training; Private Security" />
+            <chapter id="ch-182" name="State Administrative Agencies" />
+            <chapter id="ch-183" name="Administrative Procedures Act; Review of Rules; Civil Penalties" />
+            <chapter id="ch-184" name="Administrative Services and Transportation Departments" />
+            <chapter id="ch-185" name="State Advocacy Commissions and Offices" />
+        </title>
+        <title id="title-19" name="Miscellaneous Matters Related to Government and Public Affairs" range="186-200">
+            <chapter id="ch-186" name="State Emblems; State Boundary" />
+            <chapter id="ch-187" name="Holidays; Standard of Time; Commemorations" />
+            <chapter id="ch-188" name="Congressional and Legislative Districts; Reapportionment" />
+            <chapter id="ch-190" name="Cooperation of Governmental Units; State Census; Arbitration" />
+            <chapter id="ch-191" name="United States’ Surveys" />
+            <chapter id="ch-192" name="Records; Public Reports and Meetings" />
+            <chapter id="ch-193" name="Legal Notices" />
+            <chapter id="ch-194" name="Uniform Law on Notarial Acts; Unsworn Foreign Declarations" />
+            <chapter id="ch-195" name="Local Government Planning Coordination" />
+            <chapter id="ch-196" name="State Waters and Ocean Resources; Wetlands; Removal and Fill" />
+            <chapter id="ch-197" name="Comprehensive Land Use Planning I" />
+            <chapter id="ch-197A" name="Comprehensive Land Use Planning II" />
+            <chapter id="ch-198" name="Special Districts Generally" />
+            <chapter id="ch-199" name="Local Government Boundary Commissions; City-County Consolidation" />
+            <chapter id="ch-200" name="Disadvantaged Business Enterprises; Minority-Owned Businesses; Woman-Owned Businesses; Businesses Owned by Service-Disabled Veterans; Emerging Small Businesses" />
+        </title>
+    </volume>
+    <volume id="vol-6" name="Local Government, Public Employees, Elections">
+        <title id="title-20" name="Counties and County Officers" range="201-215">
+            <chapter id="ch-201" name="Boundaries of Counties" />
+            <chapter id="ch-202" name="Establishment of New Counties; Change of Boundaries" />
+            <chapter id="ch-203" name="County Governing Bodies; County Home Rule" />
+            <chapter id="ch-204" name="County Officers" />
+            <chapter id="ch-205" name="County Clerks" />
+            <chapter id="ch-206" name="Sheriffs" />
+            <chapter id="ch-208" name="County Treasurers" />
+            <chapter id="ch-209" name="County Surveyors" />
+            <chapter id="ch-210" name="County Accountants" />
+            <chapter id="ch-215" name="County Planning; Zoning; Housing Codes" />
+        </title>
+        <title id="title-21" name="Cities" range="221-227">
+            <chapter id="ch-221" name="Organization and Government of Cities" />
+            <chapter id="ch-222" name="City Boundary Changes; Mergers; Consolidations; Withdrawals" />
+            <chapter id="ch-223" name="Local Improvements and Works Generally" />
+            <chapter id="ch-224" name="City Sewers and Sanitation" />
+            <chapter id="ch-225" name="Municipal Utilities" />
+            <chapter id="ch-226" name="City Parks, Memorials and Cemeteries" />
+            <chapter id="ch-227" name="City Planning and Zoning" />
+        </title>
+        <title id="title-22" name="Public Officers and Employees" range="236-244">
+            <chapter id="ch-236" name="Eligibility; Resignations, Removals and Vacancies; Discipline; Transfers" />
+            <chapter id="ch-237" name="Public Employee Retirement Generally" />
+            <chapter id="ch-238" name="Public Employees Retirement System" />
+            <chapter id="ch-238A" name="Oregon Public Service Retirement Plan" />
+            <chapter id="ch-240" name="State Personnel Relations" />
+            <chapter id="ch-241" name="Civil Service for County Employees" />
+            <chapter id="ch-242" name="Civil Service for City or School District Employees and Firefighters" />
+            <chapter id="ch-243" name="Public Employee Rights and Benefits" />
+            <chapter id="ch-244" name="Government Ethics" />
+        </title>
+        <title id="title-23" name="Elections" range="246-260">
+            <chapter id="ch-246" name="Administration of Election Laws; Vote Recording Systems" />
+            <chapter id="ch-247" name="Qualification and Registration of Electors" />
+            <chapter id="ch-248" name="Political Parties; Presidential Electors" />
+            <chapter id="ch-249" name="Candidates; Recall" />
+            <chapter id="ch-250" name="Initiative and Referendum" />
+            <chapter id="ch-251" name="Voters’ Pamphlet" />
+            <chapter id="ch-253" name="Absent Electors" />
+            <chapter id="ch-254" name="Conduct of Elections" />
+            <chapter id="ch-255" name="Special District Elections" />
+            <chapter id="ch-258" name="Election Contests; Recounts" />
+            <chapter id="ch-259" name="Campaign Finance" />
+            <chapter id="ch-260" name="Campaign Finance Regulation; Election Offenses" />
+        </title>
+    </volume>
+    <volume id="vol-7" name="Public Facilities and Finance">
+        <title id="title-24" name="Public Organizations for Community Service" range="261-268">
+            <chapter id="ch-261" name="People’s Utility Districts" />
+            <chapter id="ch-262" name="Joint Operating Agencies for Electric Power" />
+            <chapter id="ch-263" name="Convention Facilities" />
+            <chapter id="ch-264" name="Domestic Water Supply Districts" />
+            <chapter id="ch-265" name="Cemetery Maintenance Districts" />
+            <chapter id="ch-266" name="Park and Recreation Districts" />
+            <chapter id="ch-267" name="Mass Transit Districts; Transportation Districts" />
+            <chapter id="ch-268" name="Metropolitan Service Districts" />
+        </title>
+        <title id="title-25" name="Public Lands" range="270-275">
+            <chapter id="ch-270" name="State Real Property" />
+            <chapter id="ch-271" name="Use and Disposition of Public Lands Generally; Easements" />
+            <chapter id="ch-272" name="Federal Lands" />
+            <chapter id="ch-273" name="State Lands Generally" />
+            <chapter id="ch-274" name="Submersible and Submerged Lands" />
+            <chapter id="ch-275" name="County Lands" />
+        </title>
+        <title id="title-26" name="Public Facilities, Contracting, and Insurance" range="276-283">
+            <chapter id="ch-276" name="Public Facilities" />
+            <chapter id="ch-276A" name="Information Technology" />
+            <chapter id="ch-278" name="Insurance for Public Bodies" />
+            <chapter id="ch-279" name="Public Contracting - Miscellaneous Provisions" />
+            <chapter id="ch-279A" name="Public Contracting - General Provisions" />
+            <chapter id="ch-279B" name="Public Contracting - Public Procurements" />
+            <chapter id="ch-279C" name="Public Contracting - Public Improvements and Related Contracts" />
+            <chapter id="ch-280" name="Financing of Local Public Projects and Improvements; City and County Economic Development" />
+            <chapter id="ch-282" name="Public Printing" />
+            <chapter id="ch-283" name="Interagency Services" />
+        </title>
+        <title id="title-26A" name="Economic Development" range="284-285C">
+            <chapter id="ch-284" name="Organizations for Economic Development" />
+            <chapter id="ch-285A" name="Economic Development I" />
+            <chapter id="ch-285B" name="Economic Development II" />
+            <chapter id="ch-285C" name="Economic Development III" />
+        </title>
+        <title id="title-27" name="Public Borrowing" range="286A-289">
+            <chapter id="ch-286A" name="State Borrowing" />
+            <chapter id="ch-287A" name="Local Government Borrowing" />
+            <chapter id="ch-289" name="Oregon Facilities Financing" />
+        </title>
+        <title id="title-28" name="Public Financial Administration" range="291-297">
+            <chapter id="ch-291" name="State Financial Administration" />
+            <chapter id="ch-292" name="Salaries and Expenses of State Officers and Employees" />
+            <chapter id="ch-293" name="Administration of Public Funds" />
+            <chapter id="ch-294" name="County and Municipal Financial Administration" />
+            <chapter id="ch-295" name="Depositories of Public Funds and Securities" />
+            <chapter id="ch-297" name="Audits of Public Funds and Financial Records" />
+        </title>
+    </volume>
+    <volume id="vol-8" name="Revenue and Taxation">
+        <title id="title-29" name="Revenue and Taxation" range="305-324">
+            <chapter id="ch-305" name="Administration of Revenue and Tax Laws; Appeals" />
+            <chapter id="ch-306" name="Property Taxation Generally" />
+            <chapter id="ch-307" name="Property Subject to Taxation; Exemptions" />
+            <chapter id="ch-308" name="Assessment of Property for Taxation" />
+            <chapter id="ch-308A" name="Land Special Assessments" />
+            <chapter id="ch-309" name="Board of Property Tax Appeals; Ratio Studies" />
+            <chapter id="ch-310" name="Property Tax Rates and Amounts; Tax Limitations; Tax Reduction Programs" />
+            <chapter id="ch-311" name="Collection of Property Taxes" />
+            <chapter id="ch-312" name="Foreclosure of Property Tax Liens" />
+            <chapter id="ch-314" name="Taxes Imposed Upon or Measured by Net Income" />
+            <chapter id="ch-315" name="Personal and Corporate Income or Excise Tax Credits" />
+            <chapter id="ch-316" name="Personal Income Tax" />
+            <chapter id="ch-317" name="Corporation Excise Tax" />
+            <chapter id="ch-317A" name="Corporate Activity Tax" />
+            <chapter id="ch-318" name="Corporation Income Tax" />
+            <chapter id="ch-319" name="Motor Vehicle and Aircraft Fuel Taxes" />
+            <chapter id="ch-320" name="Miscellaneous Taxes" />
+            <chapter id="ch-321" name="Timber and Forestland Taxation" />
+            <chapter id="ch-323" name="Cigarettes and Tobacco Products" />
+            <chapter id="ch-324" name="Oil and Gas Tax" />
+        </title>
+    </volume>
+    <volume id="vol-9" name="Education and Culture">
+        <title id="title-30" name="Education and Culture" range="326-359">
+            <chapter id="ch-326" name="State Administration of Education" />
+            <chapter id="ch-327" name="State Financing of Elementary and Secondary Education" />
+            <chapter id="ch-328" name="Local Financing of Education" />
+            <chapter id="ch-329" name="Oregon Educational Act for the 21st Century; Educational Improvement and Reform" />
+            <chapter id="ch-329A" name="Child Care" />
+            <chapter id="ch-330" name="Boundary Changes; Mergers" />
+            <chapter id="ch-332" name="Local Administration of Education" />
+            <chapter id="ch-334" name="Education Service Districts" />
+            <chapter id="ch-335" name="High Schools" />
+            <chapter id="ch-336" name="Conduct of Schools Generally" />
+            <chapter id="ch-337" name="Books and Instructional Materials" />
+            <chapter id="ch-338" name="Public Charter Schools" />
+            <chapter id="ch-339" name="School Attendance; Admission; Discipline; Safety" />
+            <chapter id="ch-340" name="College Credit Earned in High School" />
+            <chapter id="ch-341" name="Community Colleges" />
+            <chapter id="ch-342" name="Teachers and Other School Personnel" />
+            <chapter id="ch-343" name="Special Education and Other Specialized Education Services" />
+            <chapter id="ch-344" name="Career and Technical Education; Education Related to Employment" />
+            <chapter id="ch-345" name="Career Schools" />
+            <chapter id="ch-346" name="Programs for Persons Who Are Blind or Deaf" />
+            <chapter id="ch-348" name="Student Aid; Education Stability Fund; Planning" />
+            <chapter id="ch-350" name="Statewide Coordination of Higher Education" />
+            <chapter id="ch-352" name="Public Universities" />
+            <chapter id="ch-353" name="Oregon Health and Science University" />
+            <chapter id="ch-354" name="Educational Television and Radio; Distance Learning; Translator Districts" />
+            <chapter id="ch-357" name="Libraries; State Archivist; Poet Laureate" />
+            <chapter id="ch-358" name="Oregon Historical and Heritage Agencies, Programs and Tax Provisions; Museums; Local Symphonies and Bands; Archaeological Objects and Sites" />
+            <chapter id="ch-359" name="Art and Culture" />
+        </title>
+    </volume>
+    <volume id="vol-10" name="Highways, Military">
+        <title id="title-31" name="Highways, Roads, Bridges, and Ferries" range="366-391">
+            <chapter id="ch-366" name="State Highways and State Highway Fund" />
+            <chapter id="ch-367" name="Transportation Financing; Projects" />
+            <chapter id="ch-368" name="County Roads" />
+            <chapter id="ch-369" name="Ways of Public Easement" />
+            <chapter id="ch-370" name="County Road Bonding Act" />
+            <chapter id="ch-371" name="Road Districts and Road Assessment Plans" />
+            <chapter id="ch-372" name="Highway Lighting Districts" />
+            <chapter id="ch-373" name="Roads and Highways Through Cities" />
+            <chapter id="ch-374" name="Control of Access to Public Highways" />
+            <chapter id="ch-376" name="Ways of Necessity; Special Ways; Pedestrian Malls" />
+            <chapter id="ch-377" name="Highway Beautification; Motorist Information Signs" />
+            <chapter id="ch-381" name="Interstate Bridges" />
+            <chapter id="ch-382" name="Intrastate Bridges" />
+            <chapter id="ch-383" name="Tollways" />
+            <chapter id="ch-384" name="Ferries" />
+            <chapter id="ch-390" name="State and Local Parks; Recreation Programs; Scenic Waterways; Recreation Trails" />
+            <chapter id="ch-391" name="Mass Transportation" />
+        </title>
+        <title id="title-32" name="Military Affairs; Emergency Services" range="396-404">
+            <chapter id="ch-396" name="Militia Generally" />
+            <chapter id="ch-398" name="Military Justice" />
+            <chapter id="ch-399" name="Organized Militia" />
+            <chapter id="ch-401" name="Emergency Management and Services" />
+            <chapter id="ch-402" name="Emergency Mutual Assistance Agreements" />
+            <chapter id="ch-403" name="Emergency Communications System; 2-1-1 System; Public Safety Communications Systems" />
+            <chapter id="ch-404" name="Search and Rescue" />
+        </title>
+        <title id="title-33" name="Privileges and Benefits of Veterans and Service Personnel" range="406-408">
+            <chapter id="ch-406" name="Department of Veterans’ Affairs" />
+            <chapter id="ch-407" name="Veterans Loans" />
+            <chapter id="ch-408" name="Miscellaneous Benefits for Veterans and Service Personnel" />
+        </title>
+    </volume>
+    <volume id="vol-11" name="Juvenile Code, Human Services">
+        <title id="title-34" name="Human Services; Juvenile Code; Corrections" range="409-423">
+            <chapter id="ch-409" name="Department of Human Services" />
+            <chapter id="ch-410" name="Senior and Disability Services" />
+            <chapter id="ch-411" name="Public Assistance and Medical Assistance" />
+            <chapter id="ch-412" name="Temporary Assistance for Needy Families" />
+            <chapter id="ch-413" name="Oregon Health Authority" />
+            <chapter id="ch-414" name="Medical Assistance" />
+            <chapter id="ch-415" name="Regulation of Health Care Entities" />
+            <chapter id="ch-416" name="Recovery and Reimbursement of Aid" />
+            <chapter id="ch-417" name="Interstate Compacts on Juveniles and Children; Children and Family Services" />
+            <chapter id="ch-418" name="Child Welfare Services" />
+            <chapter id="ch-419A" name="Juvenile Code: General Provisions and Definitions" />
+            <chapter id="ch-419B" name="Juvenile Code: Dependency" />
+            <chapter id="ch-419C" name="Juvenile Code: Delinquency" />
+            <chapter id="ch-420" name="Youth Correction Facilities; Youth Care Centers" />
+            <chapter id="ch-420A" name="Oregon Youth Authority; Youth Correction Facilities" />
+            <chapter id="ch-421" name="Department of Corrections Institutions; Compacts" />
+            <chapter id="ch-423" name="Corrections and Crime Control Administration and Programs" />
+        </title>
+        <title id="title-35" name="Mental Health and Developmental Disabilities; Substance Use Disorder Treatment" range="426-430">
+            <chapter id="ch-426" name="Persons With Mental Illness; Dangerous Persons; Commitment; Housing" />
+            <chapter id="ch-427" name="Persons With Intellectual or Developmental Disabilities" />
+            <chapter id="ch-428" name="Nonresident Persons With Mental Illness or Intellectual Disabilities" />
+            <chapter id="ch-430" name="Mental and Behavioral Health Treatment; Developmental Disabilities" />
+        </title>
+    </volume>
+    <volume id="vol-12" name="Public Health">
+        <title id="title-36" name="Public Health and Safety" range="431-454">
+            <chapter id="ch-431" name="State and Local Administration and Enforcement of Public Health Laws" />
+            <chapter id="ch-431A" name="Public Health Programs and Activities" />
+            <chapter id="ch-432" name="Vital Statistics" />
+            <chapter id="ch-433" name="Disease and Condition Control; Mass Gatherings; Indoor Air" />
+            <chapter id="ch-435" name="Contraception; Termination of Pregnancy" />
+            <chapter id="ch-436" name="Sterilization" />
+            <chapter id="ch-438" name="Laboratories; Anatomical Material" />
+            <chapter id="ch-440" name="Regional Health Entities" />
+            <chapter id="ch-441" name="Health Care Facilities" />
+            <chapter id="ch-442" name="Health Planning" />
+            <chapter id="ch-443" name="Residential Care; Adult Foster Homes; Hospice Programs" />
+            <chapter id="ch-444" name="Special Medical Services for Children" />
+            <chapter id="ch-446" name="Manufactured Dwellings and Structures; Parks; Tourist Facilities; Ownership Records; Dealers and Dealerships" />
+            <chapter id="ch-447" name="Plumbing; Architectural Barriers" />
+            <chapter id="ch-448" name="Pool Facilities; Water and Sewage Systems" />
+            <chapter id="ch-450" name="Sanitary Districts and Authorities; Water Authorities" />
+            <chapter id="ch-451" name="County Service Facilities" />
+            <chapter id="ch-452" name="Vector Control" />
+            <chapter id="ch-453" name="Hazardous Substances; Radiation Sources" />
+            <chapter id="ch-454" name="Sewage Treatment and Disposal Systems" />
+        </title>
+    </volume>
+    <volume id="vol-13" name="Housing, Games, Environment">
+        <title id="title-36A" name="Housing; Lottery and Games; Environment" range="455-470">
+            <chapter id="ch-455" name="Building Code" />
+            <chapter id="ch-456" name="Housing" />
+            <chapter id="ch-457" name="Urban Renewal" />
+            <chapter id="ch-458" name="Housing and Community Services Programs; Individual Development Accounts" />
+            <chapter id="ch-459" name="Solid Waste Management" />
+            <chapter id="ch-459A" name="Reuse and Recycling" />
+            <chapter id="ch-460" name="Elevators; Amusement Rides and Devices" />
+            <chapter id="ch-461" name="Oregon State Lottery" />
+            <chapter id="ch-462" name="Racing" />
+            <chapter id="ch-463" name="Unarmed Combat Sports and Entertainment Wrestling" />
+            <chapter id="ch-464" name="Games" />
+            <chapter id="ch-465" name="Hazardous Waste and Hazardous Materials I" />
+            <chapter id="ch-466" name="Hazardous Waste and Hazardous Materials II" />
+            <chapter id="ch-467" name="Noise Control" />
+            <chapter id="ch-468" name="Environmental Quality Generally" />
+            <chapter id="ch-468A" name="Air Quality" />
+            <chapter id="ch-468B" name="Water Quality" />
+            <chapter id="ch-469" name="Energy; Conservation Programs; Energy Facilities" />
+            <chapter id="ch-469A" name="Renewable Portfolio Standards; Nonemitting Electricity Targets" />
+            <chapter id="ch-469B" name="Energy Incentives; Tax Credits; Grants" />
+            <chapter id="ch-470" name="Small Scale Local Energy Projects" />
+        </title>
+    </volume>
+    <volume id="vol-14" name="Drugs and Alcohol, Fire Protection, Natural Resources">
+        <title id="title-37" name="Alcoholic Liquors; Controlled Substances; Drugs" range="471-475C">
+            <chapter id="ch-471" name="Alcoholic Liquors Generally" />
+            <chapter id="ch-473" name="Wine, Cider and Malt Beverage Privilege Tax" />
+            <chapter id="ch-474" name="Trade Practices Relating to Malt Beverages" />
+            <chapter id="ch-475" name="Controlled Substances; Illegal Drug Cleanup; Miscellaneous Drugs; Paraphernalia; Precursors" />
+            <chapter id="ch-475A" name="Psilocybin Regulation" />
+            <chapter id="ch-475C" name="Cannabis Regulation" />
+        </title>
+        <title id="title-38" name="Protection from Fire" range="476-480">
+            <chapter id="ch-476" name="State Fire Marshal; Protection From Fire Generally" />
+            <chapter id="ch-477" name="Fire Protection of Forests and Vegetation" />
+            <chapter id="ch-478" name="Rural Fire Protection Districts" />
+            <chapter id="ch-479" name="Protection of Buildings From Fire; Electrical Safety Law" />
+            <chapter id="ch-480" name="Explosives; Flammable Materials; Pressure Vessels" />
+        </title>
+        <title id="title-41" name="Wildlife" range="496-501">
+            <chapter id="ch-496" name="Application, Administration and Enforcement of Wildlife Laws" />
+            <chapter id="ch-497" name="Licenses, Tags and Permits" />
+            <chapter id="ch-498" name="Hunting, Angling and Trapping Regulations; Miscellaneous Wildlife Protective Measures" />
+            <chapter id="ch-501" name="Refuges and Closures" />
+        </title>
+        <title id="title-42" name="Commercial Fishing and Fisheries" range="506-513">
+            <chapter id="ch-506" name="Application, Administration and Enforcement of Commercial Fishing Laws" />
+            <chapter id="ch-507" name="Compacts with Other States" />
+            <chapter id="ch-508" name="Licenses and Permits" />
+            <chapter id="ch-509" name="General Protective Regulations" />
+            <chapter id="ch-511" name="Local and Special Regulations" />
+            <chapter id="ch-513" name="Packing Fish and Manufacture of Fish Products" />
+        </title>
+        <title id="title-43" name="Mineral Resources" range="516-523">
+            <chapter id="ch-516" name="Department of Geology and Mineral Industries" />
+            <chapter id="ch-517" name="Mining and Mining Claims" />
+            <chapter id="ch-520" name="Conservation of Gas and Oil" />
+            <chapter id="ch-522" name="Geothermal Resources" />
+            <chapter id="ch-523" name="Geothermal Heating Districts" />
+        </title>
+        <title id="title-44" name="Forestry and Forest Products" range="526-532">
+            <chapter id="ch-526" name="Forestry Administration" />
+            <chapter id="ch-527" name="Pest Control; Forest Practices" />
+            <chapter id="ch-530" name="State Forests; Community Forests" />
+            <chapter id="ch-532" name="Branding of Forest Products and Booming Equipment" />
+        </title>
+    </volume>
+    <volume id="vol-15" name="Water Resources, Agriculture and Food">
+        <title id="title-45" name="Water Resources: Irrigation, Drainage, Flood Control, Reclamation" range="536-558">
+            <chapter id="ch-536" name="Water Resources Administration" />
+            <chapter id="ch-537" name="Appropriation of Water Generally" />
+            <chapter id="ch-538" name="Withdrawal of Certain Waters From Appropriation; Special Municipal and County Water Rights" />
+            <chapter id="ch-539" name="Determination of Water Rights Initiated Before February 24, 1909; Determination of Water Rights of Federally Recognized Indian Tribes" />
+            <chapter id="ch-540" name="Distribution and Storage of Water; Watermasters; Water Right Changes, Transfers and Forfeitures" />
+            <chapter id="ch-541" name="Water Distributors; Water Releases; Conservation and Storage; Water Development Projects; Watershed Management and Enhancement" />
+            <chapter id="ch-542" name="Water Resource Surveys and Projects; Compacts" />
+            <chapter id="ch-543" name="Hydroelectric Projects" />
+            <chapter id="ch-543A" name="Reauthorizing and Decommissioning Hydroelectric Projects" />
+            <chapter id="ch-545" name="Irrigation Districts" />
+            <chapter id="ch-547" name="Drainage Districts" />
+            <chapter id="ch-548" name="Provisions Applicable Both to Drainage Districts and to Irrigation Districts" />
+            <chapter id="ch-549" name="Drainage and Flood Control Generally" />
+            <chapter id="ch-550" name="Urban Flood Safety and Water Quality District" />
+            <chapter id="ch-551" name="Diking Districts" />
+            <chapter id="ch-552" name="Water Improvement Districts" />
+            <chapter id="ch-553" name="Water Control Districts" />
+            <chapter id="ch-554" name="Corporations for Irrigation, Drainage, Water Supply or Flood Control" />
+            <chapter id="ch-555" name="Reclamation Projects; Sand Control" />
+            <chapter id="ch-558" name="Weather Modification" />
+        </title>
+        <title id="title-46" name="Agriculture" range="561-571">
+            <chapter id="ch-561" name="State Department of Agriculture" />
+            <chapter id="ch-564" name="Wildflowers; Threatened or Endangered Plants" />
+            <chapter id="ch-565" name="Fairs and Exhibits" />
+            <chapter id="ch-566" name="Extension and Field Work; Rural Rehabilitation" />
+            <chapter id="ch-567" name="Experiment Stations" />
+            <chapter id="ch-568" name="Soil and Water Conservation; Water Quality Management" />
+            <chapter id="ch-569" name="Weed Control" />
+            <chapter id="ch-570" name="Plant Pest Control; Invasive Species" />
+            <chapter id="ch-571" name="Nursery Stock; Licensed Agricultural Crops" />
+        </title>
+        <title id="title-47" name="Agricultural Marketing and Warehousing" range="576-587">
+            <chapter id="ch-576" name="Agricultural Marketing Generally" />
+            <chapter id="ch-577" name="Oregon Beef Council" />
+            <chapter id="ch-578" name="Oregon Wheat Commission" />
+            <chapter id="ch-586" name="Warehouses" />
+            <chapter id="ch-587" name="Storage of Grain as Basis of Farm Credit" />
+        </title>
+        <title id="title-48" name="Animals" range="596-610">
+            <chapter id="ch-596" name="Disease Control Generally" />
+            <chapter id="ch-599" name="Livestock Auction Markets; Stockyards; Auction Sales" />
+            <chapter id="ch-600" name="Swine" />
+            <chapter id="ch-601" name="Dead Animals" />
+            <chapter id="ch-602" name="Bees" />
+            <chapter id="ch-603" name="Meat Sellers and Slaughterers" />
+            <chapter id="ch-604" name="Brands and Marks; Feedlots" />
+            <chapter id="ch-607" name="Livestock Districts; Stock Running at Large" />
+            <chapter id="ch-608" name="Fences to Prevent Damage by or to Animals" />
+            <chapter id="ch-609" name="Dogs; Exotic Animals; Dealers" />
+            <chapter id="ch-610" name="Predatory Animals" />
+        </title>
+        <title id="title-49" name="Food and Other Commodities: Purity, Sanitation, Grades, Standards, Labels, Weights and Measures" range="616-635">
+            <chapter id="ch-616" name="General and Miscellaneous Provisions" />
+            <chapter id="ch-618" name="Weights and Measures" />
+            <chapter id="ch-619" name="Labeling and Inspection of Meat and Meat Food Products" />
+            <chapter id="ch-621" name="Milk; Dairy Products; Substitutes" />
+            <chapter id="ch-622" name="Shellfish" />
+            <chapter id="ch-624" name="Food Service Facilities" />
+            <chapter id="ch-625" name="Bakeries and Bakery Products" />
+            <chapter id="ch-628" name="Refrigerated Locker Plants" />
+            <chapter id="ch-632" name="Production, Grading and Labeling Standards for Agricultural and Horticultural Products" />
+            <chapter id="ch-633" name="Grades, Standards and Labels for Feeds, Soil Enhancers and Seeds" />
+            <chapter id="ch-634" name="Pesticide Control" />
+            <chapter id="ch-635" name="Nonalcoholic Beverages" />
+        </title>
+    </volume>
+    <volume id="vol-16" name="Trade Regulations and Practices; Labor and Employment; Unlawful Discrimination">
+        <title id="title-50" name="Trade Regulations and Practices" range="645-650">
+            <chapter id="ch-645" name="Commodity Transactions" />
+            <chapter id="ch-646" name="Trade Practices and Antitrust Regulation" />
+            <chapter id="ch-646A" name="Trade Regulation" />
+            <chapter id="ch-647" name="Trademarks and Service Marks; Music Royalties" />
+            <chapter id="ch-648" name="Assumed Business Names" />
+            <chapter id="ch-649" name="Insignia and Names of Organizations" />
+            <chapter id="ch-650" name="Franchise Transactions" />
+        </title>
+        <title id="title-51" name="Trade Practices, Labor and Employment" range="651-663">
+            <chapter id="ch-651" name="Bureau of Labor and Industries" />
+            <chapter id="ch-652" name="Hours; Wages; Wage Claims; Records" />
+            <chapter id="ch-653" name="Minimum Wages; Employment Conditions; Minors" />
+            <chapter id="ch-654" name="Occupational Safety and Health" />
+            <chapter id="ch-655" name="Injured Trainees and Adults in Custody" />
+            <chapter id="ch-656" name="Workers’ Compensation" />
+            <chapter id="ch-657" name="Unemployment Insurance" />
+            <chapter id="ch-657B" name="Family and Medical Leave Insurance" />
+            <chapter id="ch-658" name="Employment Agencies; Farm Labor Contractors and Construction Labor Contractors; Farmworker Camps" />
+            <chapter id="ch-659" name="Miscellaneous Prohibitions Relating to Employment and Discrimination" />
+            <chapter id="ch-659A" name="Unlawful Discrimination in Employment, Public Accommodations and Real Property Transactions; Administrative and Civil Enforcement" />
+            <chapter id="ch-660" name="Apprenticeship and Training; Workforce Development; Volunteerism" />
+            <chapter id="ch-661" name="Organized Labor; Union Labels" />
+            <chapter id="ch-662" name="Labor Disputes" />
+            <chapter id="ch-663" name="Labor Relations Generally" />
+        </title>
+    </volume>
+    <volume id="vol-17" name="Occupations">
+        <title id="title-52" name="Occupations and Professions" range="670-704">
+            <chapter id="ch-670" name="Occupations and Professions Generally" />
+            <chapter id="ch-671" name="Architects; Landscape Professions and Business" />
+            <chapter id="ch-672" name="Professional Engineers; Land Surveyors; Photogrammetrists; Geologists" />
+            <chapter id="ch-673" name="Accountants; Other Tax Professionals" />
+            <chapter id="ch-674" name="Real Estate Appraisers and Appraisal" />
+            <chapter id="ch-675" name="Psychologists; Occupational Therapists; Certified Sexual Offense Therapists; Regulated Social Workers; Licensed Professional Counselors and Marriage and Family Therapists" />
+            <chapter id="ch-676" name="Health Professions Generally" />
+            <chapter id="ch-677" name="Regulation of Medicine, Podiatry and Acupuncture" />
+            <chapter id="ch-678" name="Nurses; Long Term Care Administrators" />
+            <chapter id="ch-679" name="Dentists" />
+            <chapter id="ch-680" name="Dental Hygienists; Denturists" />
+            <chapter id="ch-681" name="Hearing, Speech, Music Therapy and Art Therapy Professionals" />
+            <chapter id="ch-682" name="Regulation of Ambulance Services and Emergency Medical Services Providers" />
+            <chapter id="ch-683" name="Optometrists; Opticians" />
+            <chapter id="ch-684" name="Chiropractors" />
+            <chapter id="ch-685" name="Naturopathic Physicians" />
+            <chapter id="ch-686" name="Veterinarians; Veterinary Technicians" />
+            <chapter id="ch-687" name="Massage Therapists; Direct Entry Midwives" />
+            <chapter id="ch-688" name="Therapeutic and Technical Services: Physical Therapists; Medical Imaging Practitioners and Limited X-Ray Machine Operators; Hemodialysis Technicians; Athletic Trainers; Respiratory Therapists and Polysomnographic Technologists" />
+            <chapter id="ch-689" name="Pharmacists; Drug Outlets; Drug Sales" />
+            <chapter id="ch-690" name="Cosmetic Professionals" />
+            <chapter id="ch-691" name="Dietitians" />
+            <chapter id="ch-692" name="Funeral Service Practitioners; Embalmers; Death Care Consultants; Funeral Establishments; Cemetery Operators; Crematory Operators and Alternative Disposition Facilities" />
+            <chapter id="ch-693" name="Plumbers" />
+            <chapter id="ch-694" name="Hearing Aid Specialists" />
+            <chapter id="ch-695" name="Watch Dealers" />
+            <chapter id="ch-696" name="Real Estate and Escrow Activities" />
+            <chapter id="ch-697" name="Collection Agencies; Check-Cashing Businesses; Debt Management Service Providers" />
+            <chapter id="ch-698" name="Auctions" />
+            <chapter id="ch-699" name="Innkeepers and Hotelkeepers" />
+            <chapter id="ch-700" name="Environmental Health Specialists; Waste Water Specialists" />
+            <chapter id="ch-701" name="Construction Contractors and Contracts" />
+            <chapter id="ch-702" name="Student Athletes" />
+            <chapter id="ch-703" name="Truth Verification and Deception Detection; Investigators" />
+            <chapter id="ch-704" name="Outfitters and Guides" />
+        </title>
+    </volume>
+    <volume id="vol-18" name="Financial Institutions, Insurance">
+        <title id="title-52A" name="Insurance and Finance Administration" range="705">
+            <chapter id="ch-705" name="Department of Consumer and Business Services" />
+        </title>
+        <title id="title-53" name="Financial Institutions" range="706-717">
+            <chapter id="ch-706" name="Administration and Enforcement of Banking Laws Generally" />
+            <chapter id="ch-707" name="Organization to Conduct Banking Business; Stockholders, Directors and Officers" />
+            <chapter id="ch-708A" name="Regulation of Institutions Generally" />
+            <chapter id="ch-709" name="Regulation of Trust Business" />
+            <chapter id="ch-711" name="Merger; Conversion; Share Exchange; Acquisition; Liquidation; Insolvency" />
+            <chapter id="ch-713" name="Out-of-State Banks and Extranational Institutions" />
+            <chapter id="ch-714" name="Branch Banking; Automated Teller Machines" />
+            <chapter id="ch-715" name="Bank Holding Companies; Financial Holding Companies" />
+            <chapter id="ch-716" name="Savings Banks" />
+            <chapter id="ch-717" name="Money Transmission" />
+        </title>
+        <title id="title-54" name="Credit Unions, Lending Institutions and Pawnbrokers" range="723-726">
+            <chapter id="ch-723" name="Credit Unions" />
+            <chapter id="ch-725" name="Consumer Finance" />
+            <chapter id="ch-725A" name="Short-Term Loans and Student Loan Servicing" />
+            <chapter id="ch-726" name="Pawnbrokers" />
+        </title>
+        <title id="title-56" name="Insurance" range="731-752">
+            <chapter id="ch-731" name="Administration and General Provisions" />
+            <chapter id="ch-732" name="Organization and Corporate Procedures of Domestic Insurers; Regulation of Insurers Generally" />
+            <chapter id="ch-733" name="Accounting and Investments" />
+            <chapter id="ch-734" name="Rehabilitation, Liquidation and Conservation of Insurers" />
+            <chapter id="ch-735" name="Alternative Insurance" />
+            <chapter id="ch-737" name="Rates and Rating Organizations" />
+            <chapter id="ch-741" name="Health Insurance Exchange" />
+            <chapter id="ch-742" name="Insurance Policies Generally; Property and Casualty Policies" />
+            <chapter id="ch-743" name="Health and Life Insurance" />
+            <chapter id="ch-743A" name="Health Insurance: Reimbursement of Claims" />
+            <chapter id="ch-743B" name="Health Benefit Plans: Individual and Group" />
+            <chapter id="ch-744" name="Insurance Producers; Life Settlement Providers, Brokers and Contracts; Adjusters; Consultants; Third Party Administrators; Reinsurance Intermediaries; Limited Licenses" />
+            <chapter id="ch-746" name="Trade Practices" />
+            <chapter id="ch-748" name="Fraternal Benefit Societies" />
+            <chapter id="ch-750" name="Health Care Service Contractors; Multiple Employer Welfare Arrangements; Legal Expense Organizations" />
+            <chapter id="ch-752" name="Professional Liability Funds" />
+        </title>
+    </volume>
+    <volume id="vol-19" name="Utilities, Vehicle Code, Watercraft, Aviation">
+        <title id="title-57" name="Utility Regulation" range="756-774">
+            <chapter id="ch-756" name="Public Utility Commission" />
+            <chapter id="ch-757" name="Utility Regulation Generally" />
+            <chapter id="ch-758" name="Utility Rights of Way and Territory Allocation; Cogeneration" />
+            <chapter id="ch-759" name="Telecommunications Utility Regulation" />
+            <chapter id="ch-772" name="Rights of Way for Public Uses" />
+            <chapter id="ch-774" name="Citizens’ Utility Board" />
+        </title>
+        <title id="title-58" name="Shipping and Navigation" range="776-783">
+            <chapter id="ch-776" name="Maritime Pilots and Pilotage" />
+            <chapter id="ch-777" name="Ports Generally" />
+            <chapter id="ch-778" name="Port of Portland" />
+            <chapter id="ch-780" name="Improvement and Use of Navigable Streams" />
+            <chapter id="ch-783" name="Liabilities and Offenses Connected With Shipping and Navigation; Shipbreaking; Ballast Water" />
+        </title>
+        <title id="title-59" name="Oregon Vehicle Code" range="801-826">
+            <chapter id="ch-801" name="General Provisions and Definitions for Oregon Vehicle Code" />
+            <chapter id="ch-802" name="Administrative Provisions" />
+            <chapter id="ch-803" name="Vehicle Title and Registration" />
+            <chapter id="ch-805" name="Special Registration Provisions" />
+            <chapter id="ch-806" name="Financial Responsibility Law" />
+            <chapter id="ch-807" name="Driving Privileges and Identification Cards" />
+            <chapter id="ch-809" name="Refusal, Suspension, Cancellation and Revocation of Registration, Title, Driving Privileges and Identification Card; Vehicle Impoundment" />
+            <chapter id="ch-810" name="Road Authorities; Courts; Police; Other Enforcement Officials" />
+            <chapter id="ch-811" name="Rules of the Road for Drivers" />
+            <chapter id="ch-813" name="Driving Under the Influence of Intoxicants" />
+            <chapter id="ch-814" name="Pedestrians; Passengers; Livestock; Motorized Wheelchairs; Vehicles With Fewer Than Four Wheels" />
+            <chapter id="ch-815" name="Vehicle Equipment Generally" />
+            <chapter id="ch-816" name="Vehicle Equipment: Lights" />
+            <chapter id="ch-818" name="Vehicle Limits" />
+            <chapter id="ch-819" name="Destroyed, Totaled, Abandoned, Low-Value and Stolen Vehicles; Vehicle Identification Numbers; Vehicle Appraisers" />
+            <chapter id="ch-820" name="Special Provisions for Certain Vehicles" />
+            <chapter id="ch-821" name="Off-Road Vehicles; Snowmobiles; All-Terrain Vehicles" />
+            <chapter id="ch-822" name="Regulation of Vehicle Related Businesses" />
+            <chapter id="ch-823" name="Carrier Regulation Generally" />
+            <chapter id="ch-824" name="Railroads" />
+            <chapter id="ch-825" name="Motor Carriers" />
+            <chapter id="ch-826" name="Registration of Commercial Vehicles" />
+        </title>
+        <title id="title-61" name="Small Watercraft" range="830">
+            <chapter id="ch-830" name="Small Watercraft" />
+        </title>
+        <title id="title-62" name="Aviation" range="835-838">
+            <chapter id="ch-835" name="Aviation Administration" />
+            <chapter id="ch-836" name="Airports and Landing Fields" />
+            <chapter id="ch-837" name="Aircraft Operation" />
+            <chapter id="ch-838" name="Airport Districts" />
+        </title>
+    </volume>
+</volumes>
