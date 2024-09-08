@@ -61,6 +61,7 @@ module.exports = env => {
                 • For the VSCode "Live Server" extension, add the following for an equivalent fallback option:
                     • "liveServer.settings.file": "index.html"
                 • These flags / settings / options should already be setup or at least depicted in examples already inside of "package.json" or ".vscode/settings.json", so be sure to take a look at those files for usage examples.
+                • To work in production on hosting providers such as GitHub Pages, if they support automatic 404 routing, these x2 SPA hack workarounds can work as fixes by utilizing 404 pages to redirect to index.html: https://smashingmagazine.com/2016/08/sghpa-single-page-app-hack-github-pages
             */
             historyApiFallback: true
         },
